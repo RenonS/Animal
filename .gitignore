@@ -1,0 +1,6 @@
+/static
+djangoSql.sql
+__pycache__
+*.pyc
+*~
+.DS_Store
